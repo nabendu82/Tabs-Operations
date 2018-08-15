@@ -22,10 +22,9 @@
   "permissions": [
     "tabs"
   ],
-  "version": "1.0",
+  "version": "2.0",
   "icons": {
     "32": "icons/logo_32.png",
-    "48": "icons/logo_48.png",
     "64": "icons/logo_64.png"
   }
 }
